@@ -6,7 +6,6 @@
 - [ ] [Power BI DAX Avançado: Guia Completo para Análises Reais](https://downloadcursos.top/power-bi-dax-avancado/)
 - [ ] [Formação Cientista de Dados Completo](https://downloadcursos.top/formacao-cientista-de-dados-completo/)
 - [ ] [Linguagem R: Do Zero Absoluto ao Domínio](https://downloadcursos.top/linguagem-r-zero-ao-dominio/)
-- [ ] [Análise Financeira com Python](https://downloadcursos.top/analise-financeira-com-python/)
 - [ ] [Séries Temporais com Python – O Curso Completo](https://downloadcursos.top/series-temporais-com-python/)
 - [ ] [Dashboards Interativos com Python](https://downloadcursos.top/dashboards-interativos-com-python/)
 - [ ] [Álgebra Linear com Python](https://downloadcursos.top/algebra-linear-com-python/)
